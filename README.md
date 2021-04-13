@@ -1,4 +1,6 @@
 <h1 align="center">
+   Desenvolvendo uma aplicação de estimativa de cálculo para projetos freelancer
+  
   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
 </h1>
 
